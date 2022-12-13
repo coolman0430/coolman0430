@@ -7,6 +7,7 @@ My main skills are:<br>
 - Frontend: React, Vue.js, AngularJS<br>
 - Mobile: ReactNative, Flutter<br>
 - Backend: Node.js(ExpressJS, NestJS), C#(ASP.NET, .Net Core), PHP(Laravel, CI), Python(Django, Flask)<br>
+- Game: Unity, CocosCreator<br>
 - Serverless: AWS, Google Cloud<br>
 - Database: MySQL, MsSQL, MongoDB<br>
 - DevOps: Git, Azure<br>
