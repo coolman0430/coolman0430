@@ -4,13 +4,14 @@
 <p>Welcome to my page! </br> I am a Fullstack developer and I've been developing for 7+ years.<br>
 I have wide experience in C#, javascript, C++, PHP and python.<br>
 My main skills are:<br>
-- Frontend: React, Vue.js, AngularJS<br>
-- Mobile: ReactNative, Flutter<br>
-- Backend: Node.js(ExpressJS, NestJS), C#(ASP.NET, .Net Core), PHP(Laravel, CI), Python(Django, Flask)<br>
 - Game: Unity, CocosCreator<br>
-- Serverless: AWS, Google Cloud<br>
-- Database: MySQL, MsSQL, MongoDB<br>
-- DevOps: Git, Azure<br>
+- Web:
+  - Frontend: React, Vue.js, AngularJS<br>
+  - Mobile: ReactNative, Flutter<br>
+  - Backend: Node.js(ExpressJS, NestJS), C#(ASP.NET, .Net Core), PHP(Laravel, CI), Python(Django, Flask)<br>
+  - Serverless: AWS, Google Cloud<br>
+  - Database: MySQL, MsSQL, MongoDB<br>
+  - DevOps: Git, Azure<br>
 </p>
 <h3>Things I code with</h3>
 <p>
