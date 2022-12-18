@@ -5,9 +5,8 @@
 I have wide experience in C#, javascript, C++, PHP and python.<br>
 My main skills are:<br>
 - Game: Unity, CocosCreator<br>
-- Web:
-  - Frontend: React, Vue.js, AngularJS<br>
-  - Mobile: ReactNative, Flutter<br>
+- Web:<br>
+  - Frontend: React, Vue.js, AngularJS<br>  
   - Backend: Node.js(ExpressJS, NestJS), C#(ASP.NET, .Net Core), PHP(Laravel, CI), Python(Django, Flask)<br>
   - Serverless: AWS, Google Cloud<br>
   - Database: MySQL, MsSQL, MongoDB<br>
